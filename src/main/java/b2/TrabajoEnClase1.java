@@ -1,6 +1,6 @@
 package b2;
 
-public class Motocicleta {
+public class TrabajoEnClase1 {
     String Marca;
     String modelo;
     String cilindraje;
@@ -30,3 +30,4 @@ public class Motocicleta {
     }
 
 }
+
