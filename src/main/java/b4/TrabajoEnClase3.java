@@ -34,8 +34,5 @@ public class TrabajoEnClase3 {
         } else {
             System.out.println("Ninguna palabra tiene más de 4 letras");
         }
-
-        //List<String> palabras2 = Arrays.asList("hola", "adiós", "hasta luego", "hasta pronto");
-        //palabras2.stream().filter(p => p.startsWith("h")).findFirst();
     }
 }
